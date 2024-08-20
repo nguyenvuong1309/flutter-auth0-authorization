@@ -1,0 +1,47 @@
+# Flutter
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+**/GeneratedPluginRegistrant.java
+**/GeneratedPluginRegistrant.kt
+
+# IntelliJ related
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Visual Studio Code related
+.vscode/
+
+# MacOS
+*.DS_Store
+
+# Android related
+*.apk
+*.aar
+*.jks
+/android/key.properties
+/android/app/key.jks
+/android/local.properties
+
+# iOS related
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.xcworkspace
+ios/Pods/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.podspec
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Others
+**/*.swp
